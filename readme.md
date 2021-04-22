@@ -10,7 +10,7 @@ Wer sich weiter mit Python beschäftigen möchte, findet hier einen tollen Einst
 ## Übungen
 Das Ziel ist die Programmierung eines Spiels zum Erraten von Zahlen. Dabei soll in sieben Schritten vorgegangen werden. Mit jedem Schritt wird das Programm um eine kleine Funktionalität erweitert. Das Erraten selbst wird bereits in Step-3 erreicht, so dass schnell erste Erfolge zu sehen sind. Im Anschluss kann je nach verbleibender Zeit "weitergebastelt" werden.
 ### Grundlagen
-Mit Hilfe der [grundlagen.py](./grundlagen.py) findet werden alle Befehle/Hilfen kurz erklärt, die zur Umsetzung der Aufgabe benötigt werden. In [zufallszahlen.py](./zufallszahlen.py) wird ein Beispiel zum Generieren von Zufallszahlen gzeigt.
+Mit Hilfe der [grundlagen.py](./grundlagen.py) werden alle Befehle/Hilfen kurz erklärt, die zur Umsetzung der Aufgabe benötigt werden. In [zufallszahlen.py](./zufallszahlen.py) wird ein Beispiel zum Generieren von Zufallszahlen gzeigt.
 
 ### Hier die sieben Schritte im Detail: 
 1. Erzeuge eine Zufallszahl zwischen 1 und 10 und gebe diese aus.  
@@ -39,3 +39,4 @@ Lösung: [6-step.py](./zahlenraten/6-step.py)
     Über eine Bedingung kannst Du nun die Obergrenze für die Zufallszahl definieren. 1 -> 10, 2 -> 25, 3 -> 50  
     Lösung: [7-step.py](./zahlenraten/7-step.py)
 
+# Viel Spaß 🌷
