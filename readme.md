@@ -31,7 +31,7 @@ Lösung: [5-step.py](./zahlenraten/5-step.py)
 6. Wir wollen unsere Anzahl der Versuche variabel gestalten. Der Benutzer soll gefragt werden, wie viele Versuche er zum Raten haben möchte. Frage also die Anzahl ab und verwende sie für das Zählen in der Schleife.  
 Lösung: [6-step.py](./zahlenraten/6-step.py)
 
-7. Wir wollen zwischen Anfänger, Fortgeschrittenem und     Profi unterscheiden: Frage vor dem Spielbeginn die Schwierigkeit über eine Zahleneingabe ab:  
+7. Wir wollen zwischen Anfänger, Fortgeschrittenem und Profi unterscheiden: Frage vor dem Spielbeginn die Schwierigkeit über eine Zahleneingabe ab:  
     * Stufe 1 = Zahl zwischen 1-10 
     * Stufe 2 = Zahl zwischen 1-25 
     * Stufe 3 = Zahl zwischen 1-50  
