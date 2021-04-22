@@ -3,14 +3,14 @@ Hier findest Du den Source Code zum Girl's Day mit dem Thema:
 **Ein Tag als Programmiererin**
 
 ## Programmiersprache und Setup
-Als Programmiersprache verwenden wir Python. Auf der Platform: https://repl.it/languages/python3 besteht die Möglichkeit, "online" kleine Programme zu schreiben und dieses direkt auszuführen.  
+Als Programmiersprache verwenden wir Python. Auf der Plattform: https://repl.it/languages/python3 besteht die Möglichkeit, "online" kleine Programme zu schreiben und dieses direkt auszuführen.  
 
 Wer sich weiter mit Python beschäftigen möchte, findet hier einen tollen Einstieg: https://pythonbuch.com/
 
 ## Übungen
 Das Ziel ist die Programmierung eines Spiels zum Erraten von Zahlen. Dabei soll in sieben Schritten vorgegangen werden. Mit jedem Schritt wird das Programm um eine kleine Funktionalität erweitert. Das Erraten selbst wird bereits in Step-3 erreicht, so dass schnell erste Erfolge zu sehen sind. Im Anschluss kann je nach verbleibender Zeit "weitergebastelt" werden.
 ### Grundlagen
-Mit Hilfe der [grundlagen.py](./grundlagen.py) werden alle Befehle/Hilfen kurz erklärt, die zur Umsetzung der Aufgabe benötigt werden. In [zufallszahlen.py](./zufallszahlen.py) wird ein Beispiel zum Generieren von Zufallszahlen gzeigt.
+Mit Hilfe der [grundlagen.py](./grundlagen.py) werden alle Befehle/Hilfen kurz erklärt, die zur Umsetzung der Aufgabe benötigt werden. In [zufallszahlen.py](./zufallszahlen.py) wird ein Beispiel zum Generieren von Zufallszahlen gezeigt.
 
 ### Hier die sieben Schritte im Detail: 
 1. Erzeuge eine Zufallszahl zwischen 1 und 10 und gebe diese aus.  
