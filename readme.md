@@ -3,7 +3,7 @@ Hier findest Du den Source Code zum Girl's Day mit dem Thema:
 **Ein Tag als Programmiererin**
 
 ## Programmiersprache und Setup
-Als Programmiersprache verwenden wir Python. Auf der Plattform: https://repl.it/languages/python3 besteht die Möglichkeit, "online" kleine Programme zu schreiben und dieses direkt auszuführen.  
+Als Programmiersprache verwenden wir Python. Auf der Plattform: https://www.online-python.com/ besteht die Möglichkeit, "online" kleine Programme zu schreiben und dieses direkt auszuführen.  
 
 Wer sich weiter mit Python beschäftigen möchte, findet hier einen tollen Einstieg: https://pythonbuch.com/
 

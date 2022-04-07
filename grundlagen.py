@@ -6,7 +6,7 @@ infoText = "Hallo Girl's Day" #Zuweisung einer ZEICHENKETTE (String)
 binIchSchlau = True
 binIchDumm = False
 
-#Ausgabe auf dem Bildschrim
+#Ausgabe auf dem Bildschirm
 #Wir können nur Zeichenketten ausgeben. Daher müssen wir Zahlen und Wahrheitswerte (Boolean) mit str(...) umwandeln.
 print("x = " + str(x))
 print("y = " + str(y))
@@ -23,7 +23,7 @@ print("Dein Name ist: " + name)
 if name == "Lisa":
     print("Hallo Lisa")
 elif name == "Marie":
-    print("Hallo Lisa")
+    print("Hallo Marie")
 else:
     print("Tut mir leid, ich kenne dich nicht!")
 
@@ -36,7 +36,7 @@ print("Ich starte meine Schleife und will bis 10 zählen...")
 for x in range(10):
     print(x)
     if x == 5:
-        break #verläßt die Schleife
+        break #verlässt die Schleife
 print("Ich bin bei 5 ausgestiegen :(")
 
 #Schleifen nach Anzahl über Benutzereingabe zählen lassen
